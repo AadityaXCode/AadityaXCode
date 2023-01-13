@@ -27,9 +27,9 @@
 <br/>
   
 - 📗 [***ItzRexModz/ccchk-ub***](https://github.com/itzrexmodz/ccchk-ub) <br/>
-  A Credit Card Scrapper Bot With Shell Features
-- 📘 [***Elliottophellia/kyoko***](https://github.com/Elliottophellia/kyoko) <br/>
-  Random anime pictures and quotes API, Toshino Kyoko.
+  A Credit Card Scrapper Bot With Python Shell Features
+- 📘 [***itzrexmodz/PyInsideTG***](https://github.com/itzrexmodz/PyInsideTG) <br/>
+  A Simple Bot To Evaluate Python Codes And Bash Commands Inside Telegram.
 - 📙 [***Elliottophellia/ophellia***](https://github.com/Elliottophellia/ophellia) <br/>
   A simple webshell build in PHP 7.4 for penetration testing and educational purposes only.
 - 📒 [***Elliottophellia/mocha***](https://github.com/Elliottophellia/mocha) <br/>
