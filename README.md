@@ -13,9 +13,9 @@
 
 - Good with **CSS** , **HTML** , **Python** and **C++**
 
-- Have high experience with **Photoshop** and **CorelDRAW**
+- Have high experience with **Adobe After Effects** and **Alight Motion**
   
-- Familiar with **Debian**, **Ubuntu**, **Fedora**, **Arch**, **Void** and **OpenSUSE**
+- Familiar with **Debian** and **Ubuntu**
 
 - Understand 日本語 (N5), Bahasa (Native), and English (Fluent)
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
