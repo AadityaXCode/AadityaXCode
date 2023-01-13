@@ -32,8 +32,8 @@
   A Simple Bot To Evaluate Python Codes And Bash Commands Inside Telegram.
 - 📙 [***itzrexmodz/WatchedSite***](https://revyz.onrender.com/) <br/>
   A Simple And Sexy Gui Website To Watch And Download Any Web-Series And Movies For Free 24/7 Online. 
-- 📒 [***Elliottophellia/mocha***](https://github.com/Elliottophellia/mocha) <br/>
-  A discord selfbot designed to bumping disboard.org every 2 hours.
+- 📒 [***More About My Work***](https://telegram.dog/s/Was_Aditya?before=3) <br/>
+  more Info's On My Hosted Bots , Sites And My TG id :)
 
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
