@@ -1,7 +1,7 @@
 <div>
 <br/>
 <center>︻デ═一 𝘼𝘼𝘿𝙄𝙏𝙔𝘼<center/>
-<img src="./img/_23_akeno-himejima-desktop-wallpaper_24022855.jpg" width="500" />
+<img src="./img/5fa0e3e226de58362578fd5e28caabf1.gif" width="500" />
 <br/>
 <br/>
 
