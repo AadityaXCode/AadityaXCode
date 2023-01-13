@@ -34,7 +34,7 @@
   more Info's On My Hosted Bots , Sites And My TG id :)
 
 <br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
+<img src="./img/5fa0e3e226de58362578fd5e28caabf1.gif" width="500" /><br/>
   
 <sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
 <!--
