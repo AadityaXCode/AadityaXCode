@@ -22,24 +22,10 @@
 - Understand **English** , **Hindi**
 <img src="./img/images (28).jpeg" width="300" align="right" />
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+ㅤ
+ㅤ
+ㅤ
+ㅤ
 <img src="./img/f528d497274c571f83c2e3c2248bfebc.jpg" width="500" />
 <br/>
 <br/>
