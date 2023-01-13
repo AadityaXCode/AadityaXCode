@@ -1,7 +1,9 @@
 <div>
 <img src="./img/uwp1245026.jpeg" width="300" align="right" />
 <br/>
-<br>
+<P>
+
+</p>
 <img src="./img/AboutMe-elaina.png" width="500" />
 <br/>
 <br/>
