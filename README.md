@@ -5,9 +5,9 @@
 <br/>
 <br/>
   
-- Name **Reidho Satria**
+- Name **Λ∂ιтуα ⚡**
 
-- Live in **Palembang, Indonesia**
+- Live in **INDIA**
 
 - Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
 
