@@ -26,8 +26,8 @@
 <br/>
 <br/>
   
-- 📗 [***Elliottophellia/ayano***](https://github.com/Elliottophellia/ayano) <br/>
-  A multipurpose bot for anything with 69 commands!
+- 📗 [***ItzRexModz/ccchk-ub***](https://github.com/itzrexmodz/ccchk-ub) <br/>
+  A Credit Card Scrapper Bot With Shell Features
 - 📘 [***Elliottophellia/kyoko***](https://github.com/Elliottophellia/kyoko) <br/>
   Random anime pictures and quotes API, Toshino Kyoko.
 - 📙 [***Elliottophellia/ophellia***](https://github.com/Elliottophellia/ophellia) <br/>
