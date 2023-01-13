@@ -9,9 +9,9 @@
 
 - Live in **INDIA**
 
-- Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
+- Studying [***Computer And Network Engineering***](https://t.me/Was_Aditya)
 
-- Good with **Javascript** , **Typescript** , **PHP** , **Bash** , **CSS** , **HTML** and **Python**
+- Good with **CSS** , **HTML** , **Python** and **C++**
 
 - Have high experience with **Photoshop** and **CorelDRAW**
   
