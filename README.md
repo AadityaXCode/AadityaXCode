@@ -2,6 +2,14 @@
 <img src="./img/uwp1245026.jpeg" width="300" align="right" />
 <br/>
 <center>︻デ═一 𝘼𝘼𝘿𝙄𝙏𝙔𝘼<center/>
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+
 <img src="./img/_23_akeno-himejima-desktop-wallpaper_24022855.jpg" width="500" />
 <br/>
 <br/>
