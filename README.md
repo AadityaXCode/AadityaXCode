@@ -2,10 +2,12 @@
 <img src="./img/uwp1245026.jpeg" width="300" align="right" />
 <br/>
 <br/>
+<br/>
 <img src="./img/AboutMe-elaina.png" width="500" />
 <br/>
 <br/>
-  
+<br/>
+
 - Name **Λ∂ιтуα ⚡**
 
 - Live in **INDIA**
