@@ -15,7 +15,7 @@
 
 - Have high experience with **Adobe After Effects** and **Alight Motion**
   
-- Familiar with **Debian** and **Ubuntu**
+- Familiar with **Debian** and **Ubuntu** **Carding & Cracking**
 
 - Understand **English** , **Hindi**
 <br/>
