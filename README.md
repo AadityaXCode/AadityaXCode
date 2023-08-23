@@ -11,11 +11,11 @@
 
 - Studying [***Computer And Network Engineering***](https://t.me/Was_Aditya)
 
-- Good with **CSS** , **HTML** , **Python** and **C++**
+- Good with **CSS** , **HTML** , **Python** , **C++** , **JAVA**
 
 - Have high experience with **Adobe After Effects** and **Alight Motion**
   
-- Familiar with **Debian** and **Ubuntu** **Carding & Cracking**
+- Familiar with **Debian** and **Ubuntu** 
 
 - Understand **English** , **Hindi**
 <br/>
@@ -24,8 +24,6 @@
 <br/>
 <br/>
   
-- 📗 [***ItzRexModz/ccchk-ub***](https://github.com/itzrexmodz/ccchk-ub) <br/>
-  A Credit Card Scrapper Bot With Python Shell Features. 
 - 📘 [***itzrexmodz/PyInsideTG***](https://github.com/itzrexmodz/PyInsideTG) <br/>
   A Simple Bot To Evaluate Python Codes And Bash Commands Inside Telegram.
 - 📙 [***itzrexmodz/WatchedSite***](https://revyz.onrender.com/) <br/>
