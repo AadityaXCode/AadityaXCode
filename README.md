@@ -17,7 +17,7 @@
   
 - Familiar with **Debian** and **Ubuntu** 
 
-- Understand **English** , **Hindi**
+- Understand **English** , **Hindi** , **Tamil**
 <br/>
 ㅤ
 <img src="./img/f528d497274c571f83c2e3c2248bfebc.jpg" width="500" />
