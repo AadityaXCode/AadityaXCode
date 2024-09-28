@@ -18,13 +18,9 @@
 - Understand **English** , **Hindi** , **Tamil** , **Marathi**
 <br/>
 ㅤ
-<img src="./img/f528d497274c571f83c2e3c2248bfebc.jpg" width="500" />
 <br/>
 <br/>
-  
 
-- 📙 [***AadityaXCode/WatchedSite***](https://revyz.onrender.com/) <br/>
-  A Simple Gui Website To Watch And Download Any Web-Series And Movies For Free 24/7 Online. 
 
 <br/>
 <img src="./img/1.png" width="500" /><br/>
