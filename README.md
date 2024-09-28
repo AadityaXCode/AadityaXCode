@@ -7,17 +7,15 @@
 
 - Name **Λ∂ιтуα ⚡**
 
-- Live in **INDIA**
+- From **INDIA**
 
-- Studying [***Computer And Network Engineering***](https://t.me/Was_Aditya)
+- Studying [***Computer Applications***]
 
 - Good with **CSS** , **HTML** , **Python** , **C++** , **JAVA**
-
-- Have high experience with **Adobe After Effects** and **Alight Motion**
   
 - Familiar with **Debian** and **Ubuntu** 
 
-- Understand **English** , **Hindi** , **Tamil**
+- Understand **English** , **Hindi** , **Tamil** , **Marathi**
 <br/>
 ㅤ
 <img src="./img/f528d497274c571f83c2e3c2248bfebc.jpg" width="500" />
