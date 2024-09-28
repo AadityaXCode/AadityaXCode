@@ -30,7 +30,7 @@
   more Info's On My Hosted Bots , Sites And My TG id :)
 
 <br/>
-<img src="./img/_23_akeno-himejima-desktop-wallpaper_24022855.jpg" width="500" /><br/>
+<img src="./img/1.png" width="500" /><br/>
   
 <sub> **"Wᴇ Aʀᴇ Aʟʟ Lɪᴋᴇ Fɪʀᴇᴡᴏʀᴋs: Wᴇ Cʟɪᴍʙ, Wᴇ Sʜɪɴᴇ Aɴᴅ Aʟᴡᴀʏs Gᴏ Oᴜʀ Sᴇᴘᴀʀᴀᴛᴇ Wᴀʏs Aɴᴅ Bᴇᴄᴏᴍᴇ Fᴜʀᴛʜᴇʀ Aᴘᴀʀᴛ. Bᴜᴛ Eᴠᴇɴ Wʜᴇɴ Tʜᴀᴛ Tɪᴍᴇ Cᴏᴍᴇs, Lᴇᴛ's Nᴏᴛ Dɪsᴀᴘᴘᴇᴀʀ Lɪᴋᴇ A Fɪʀᴇᴡᴏʀᴋ Aɴᴅ Cᴏɴᴛɪɴᴜᴇ Tᴏ Sʜɪɴᴇ.. Fᴏʀᴇᴠᴇʀ."** </sub>
 <!--
