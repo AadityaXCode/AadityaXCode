@@ -22,10 +22,10 @@
 <br/>
 <br/>
   
-- 📘 [***itzrexmodz/PyInsideTG***](https://github.com/itzrexmodz/PyInsideTG) <br/>
+- 📘 [***itzrexmodz/PyInsideTG***](https://github.com/AadityaXCode/PyInsideTG) <br/>
   A Simple Bot To Evaluate Python Codes And Bash Commands Inside Telegram.
 - 📙 [***itzrexmodz/WatchedSite***](https://revyz.onrender.com/) <br/>
-  A Simple And Sexy Gui Website To Watch And Download Any Web-Series And Movies For Free 24/7 Online. 
+  A Simple Gui Website To Watch And Download Any Web-Series And Movies For Free 24/7 Online. 
 - 📒 [***More About My Work***](https://telegram.dog/s/Was_Aditya?before=3) <br/>
   more Info's On My Hosted Bots , Sites And My TG id :)
 
