@@ -22,8 +22,7 @@
 <br/>
 <br/>
   
-- 📘 [***AadityaXCode/PyInsideTG***](https://github.com/AadityaXCode/PyInsideTG) <br/>
-  A Simple Bot To Evaluate Python Codes And Bash Commands Inside Telegram.
+
 - 📙 [***AadityaXCode/WatchedSite***](https://revyz.onrender.com/) <br/>
   A Simple Gui Website To Watch And Download Any Web-Series And Movies For Free 24/7 Online. 
 
